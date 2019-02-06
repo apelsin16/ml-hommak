@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c8a77dd-6e26-4ae3-a7c1-df057c8dbfa6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="9c8a77dd-6e26-4ae3-a7c1-df057c8dbfa6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -29,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/src/html/home/main-image.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -175,16 +173,15 @@
       <option name="presentableId" value="Default" />
       <updated>1549355771182</updated>
       <workItem from="1549355772488" duration="10295000" />
-      <workItem from="1549369244482" duration="1703000" />
+      <workItem from="1549369244482" duration="1787000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11998000" />
+    <option name="totallyTimeSpent" value="12082000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.72186834" visible="true" weight="0.24983476" />
@@ -301,7 +298,7 @@
     <entry file="file://$PROJECT_DIR$/src/html/home/main-image.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>

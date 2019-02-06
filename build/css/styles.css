@@ -374,3 +374,8 @@ template {
 [hidden] {
   display: none;
 }
+
+.card-img-left {
+  width: 50%;
+  height: 50%;
+}
