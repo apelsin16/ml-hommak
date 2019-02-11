@@ -1,9 +1,12 @@
-/*
-   Import partials below
-*/
+
 @import './normalize';
 
 .card-img-left {
   width: 50%;
   height: 50%;
+}
+
+a,
+a:hover {
+  text-decoration: none;
 }
