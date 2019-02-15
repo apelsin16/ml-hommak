@@ -380,3 +380,15 @@ a,
 a:hover {
   text-decoration: none;
 }
+
+a.navbar-brand::before {
+  content: "";
+  display: inline-block;
+  width: 58px;
+  height: 58px;
+  background-image: url("../images/logo3d.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  vertical-align: middle;
+  margin-right: 1rem;
+}
